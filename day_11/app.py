@@ -4,14 +4,16 @@
 #  code - controlled
 # maintain
 # reusabe
+# readable
 
 # def myFunction
     
 # naming convetion
 # myFunction  =  right
+# _my_function = right
 # -my function =  wrong
 # 4function = wrong
-# _my_function = right
+
 
 # def myFunction():
     # print("hello world")
