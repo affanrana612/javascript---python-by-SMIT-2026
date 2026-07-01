@@ -47,5 +47,5 @@
 # sum(a=2,b=3)
 
 def fname(fname,mname, lname):
-    print("my name is" + "   " + fname +"  ", mname + "   " + lname)
+    print("my name is" + "      " + fname +"      ", mname , "    " + lname)
 fname("Abdul", "Wahhab", "Rana")
