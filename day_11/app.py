@@ -46,6 +46,6 @@
 #     print("sum", a+b)
 # sum(a=2,b=3)
 
-def fname(fname, lname):
-    print("my name is" + "   " + fname + "   " + lname)
-fname("abdul wahhab", "rana")
+def fname(fname,mname, lname):
+    print("my name is" + "   " + fname +"  ", mname + "   " + lname)
+fname("Abdul", "Wahhab", "Rana")
